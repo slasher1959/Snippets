@@ -1,0 +1,5 @@
+echo '$fileWasClosed value is: ' . $fileWasClosed . "<br />";
+var_dump($fileWasClosed); 
+print_r($fileArrayOfMine);
+exit("Script ended prematurely<br />");  
+echo "<br /> --- The End ---";
